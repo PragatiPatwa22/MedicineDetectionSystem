@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Amoxicillin",
+    "symptoms": "Used for certain bacterial infections such as some infections of the ear, nose, throat, chest, skin and urinary tract.",
+    "uses": "Amoxicillin is an antibiotic used to treat certain bacterial infections. It does not treat viral infections such as common cold or flu.",
+    "symptoms_hindi": "कान, नाक, गले, छाती, त्वचा और मूत्र मार्ग के कुछ बैक्टीरियल संक्रमणों के लिए इसका उपयोग किया जाता है।",
+    "uses_hindi": "एमोक्सिसिलिन एक एंटीबायोटिक है जिसका उपयोग कुछ बैक्टीरियल संक्रमणों के इलाज के लिए किया जाता है। यह सर्दी या फ्लू जैसे वायरल संक्रमणों के लिए उपयोगी नहीं है।",
+    "symptoms_marathi": "कान, नाक, घसा, छाती, त्वचा आणि मूत्रमार्गातील काही बॅक्टेरियल संसर्गांसाठी याचा वापर केला जातो.",
+    "uses_marathi": "अमॉक्सिसिलिन हे काही बॅक्टेरियल संसर्गांवर उपचार करण्यासाठी वापरले जाणारे अँटीबायोटिक आहे. सर्दी किंवा फ्लूसारख्या व्हायरल संसर्गावर ते उपयोगी नाही.",
+    "price": "Approximate price varies by brand, strength and pack size.",
+    "pack_information": "Available in different forms and strengths such as capsules, tablets or oral suspension. Check the actual package for exact strength and quantity.",
+    "age_information": "Use in children and adults should follow the doctor's or pharmacist's advice. The appropriate form and strength depend on the person.",
+    "warning": "Do not use without appropriate medical advice. People with a history of serious penicillin allergy should inform their doctor. Complete the prescribed course when instructed."
+  },
+  {
+    "name": "Azithromycin",
+    "symptoms": "Used for certain bacterial infections affecting the respiratory system, skin and other parts of the body.",
+    "uses": "Azithromycin is an antibiotic used to treat certain bacterial infections. It does not treat viral infections such as common cold or flu.",
+    "symptoms_hindi": "श्वसन तंत्र, त्वचा और शरीर के कुछ अन्य हिस्सों में होने वाले कुछ बैक्टीरियल संक्रमणों के लिए इसका उपयोग किया जाता है।",
+    "uses_hindi": "एज़िथ्रोमाइसिन एक एंटीबायोटिक है जिसका उपयोग कुछ बैक्टीरियल संक्रमणों के इलाज के लिए किया जाता है। यह सर्दी या फ्लू जैसे वायरल संक्रमणों के लिए उपयोगी नहीं है।",
+    "symptoms_marathi": "श्वसनमार्ग, त्वचा आणि शरीराच्या काही इतर भागांतील काही बॅक्टेरियल संसर्गांसाठी याचा वापर केला जातो.",
+    "uses_marathi": "अॅझिथ्रोमायसिन हे काही बॅक्टेरियल संसर्गांवर उपचार करण्यासाठी वापरले जाणारे अँटीबायोटिक आहे. सर्दी किंवा फ्लूसारख्या व्हायरल संसर्गावर ते उपयोगी नाही.",
+    "price": "Approximate price varies by brand, strength and pack size.",
+    "pack_information": "Available in different strengths and forms. Check the actual medicine package for exact strength and quantity.",
+    "age_information": "Use in children and adults should follow a doctor's or pharmacist's advice. Age and medical condition can affect suitability.",
+    "warning": "Use only under appropriate medical advice. Inform a doctor about allergies, liver problems or heart rhythm problems before use."
+  },
+  {
+    "name": "Cetirizine",
+    "symptoms": "Commonly used for allergy symptoms such as sneezing, runny nose, itchy nose or throat, and itchy or watery eyes. It may also be used for hives.",
+    "uses": "Cetirizine is an antihistamine used to relieve symptoms of allergies and hives.",
+    "symptoms_hindi": "छींक, नाक बहना, नाक या गले में खुजली, आंखों में खुजली या पानी आना जैसे एलर्जी के लक्षणों में इसका उपयोग किया जाता है। पित्ती में भी इसका उपयोग हो सकता है।",
+    "uses_hindi": "सेटिरिज़िन एक एंटीहिस्टामिन दवा है जिसका उपयोग एलर्जी और पित्ती के लक्षणों को कम करने के लिए किया जाता है।",
+    "symptoms_marathi": "शिंका येणे, नाक वाहणे, नाक किंवा घशाला खाज येणे, डोळ्यांना खाज येणे किंवा डोळ्यातून पाणी येणे अशा ऍलर्जीच्या लक्षणांसाठी याचा वापर केला जातो. अंगावर उठणाऱ्या पित्तीसाठीही वापर केला जाऊ शकतो.",
+    "uses_marathi": "सेटिरीझिन हे अँटीहिस्टामिन औषध आहे. याचा उपयोग ऍलर्जी आणि पित्तीची लक्षणे कमी करण्यासाठी केला जातो.",
+    "price": "Approximate price varies by brand, strength and pack size.",
+    "pack_information": "Available in tablets, capsules or oral liquid depending on the product. Check the package for exact strength and quantity.",
+    "age_information": "Different strengths and forms may be suitable for different ages. Follow the product label or advice from a doctor or pharmacist.",
+    "warning": "May cause drowsiness in some people. Avoid driving or operating machinery if you feel sleepy. Check with a healthcare professional if you are unsure whether it is suitable for you."
+  },
+  {
+    "name": "Ibuprofen",
+    "symptoms": "Used for temporary relief of pain, inflammation and fever.",
+    "uses": "Ibuprofen is a non-steroidal anti-inflammatory medicine used to relieve pain, reduce inflammation and lower fever.",
+    "symptoms_hindi": "दर्द, सूजन और बुखार से अस्थायी राहत के लिए इसका उपयोग किया जाता है।",
+    "uses_hindi": "इबुप्रोफेन एक दर्द निवारक और सूजन कम करने वाली दवा है जिसका उपयोग दर्द, सूजन और बुखार को कम करने के लिए किया जाता है।",
+    "symptoms_marathi": "वेदना, सूज आणि ताप यापासून तात्पुरता आराम मिळवण्यासाठी याचा वापर केला जातो.",
+    "uses_marathi": "आयबुप्रोफेन हे वेदना आणि सूज कमी करण्यासाठी तसेच ताप कमी करण्यासाठी वापरले जाणारे औषध आहे.",
+    "price": "Approximate price varies by brand, strength and pack size.",
+    "pack_information": "Available in different strengths and forms. Check the actual package for exact strength and quantity.",
+    "age_information": "The appropriate product and strength depend on age and other health factors. Follow the package directions or professional medical advice.",
+    "warning": "May not be suitable for people with certain stomach ulcers, kidney problems, heart problems or allergies to NSAIDs. Do not combine with other medicines containing ibuprofen unless advised by a healthcare professional."
+  },
+  {
+    "name": "paracetamol",
+    "symptoms": "Used for temporary relief of mild to moderate pain and fever.",
+    "uses": "Paracetamol is commonly used to reduce fever and relieve mild to moderate pain.",
+    "symptoms_hindi": "हल्के से मध्यम दर्द और बुखार से अस्थायी राहत के लिए इसका उपयोग किया जाता है।",
+    "uses_hindi": "पैरासिटामोल का उपयोग आमतौर पर बुखार कम करने और हल्के से मध्यम दर्द से राहत देने के लिए किया जाता है।",
+    "symptoms_marathi": "सौम्य ते मध्यम वेदना आणि ताप यापासून तात्पुरता आराम मिळवण्यासाठी याचा वापर केला जातो.",
+    "uses_marathi": "पॅरासिटामॉलचा वापर सामान्यतः ताप कमी करण्यासाठी आणि सौम्य ते मध्यम वेदना कमी करण्यासाठी केला जातो.",
+    "price": "Approximate price varies by brand, strength and pack size.",
+    "pack_information": "Available in different strengths and forms. Check the actual package for exact strength and quantity.",
+    "age_information": "Different strengths and formulations are intended for different ages. Follow the package label or advice from a doctor or pharmacist.",
+    "warning": "Do not take more than the recommended amount. Taking too much paracetamol can cause serious liver damage. Check other medicines to make sure they do not also contain paracetamol."
+  }
+]
